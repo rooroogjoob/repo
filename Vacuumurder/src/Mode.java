@@ -1,4 +1,6 @@
-    public enum Mode {
+package src;
+
+public enum Mode {
         PLAYER1_TURN, 
         PLAYER1_WALL,
         PLAYER1_MOVE,
